@@ -6,7 +6,7 @@
 
 #### Todo Bash
 
-`$ todo_bash./todo.sh add "Market alışverişi" "Süt, ekmek, yumurta"`
+`$ todo_bash/todo.sh add "Market alışverişi" "Süt, ekmek, yumurta"`
 
 `$ todo_bash/todo.sh add "E-posta yanıtlamak" "Önemli e-postaları yanıtlamak"`
 
