@@ -36,10 +36,5 @@
 
 `$ code_snippets/snippet.sh delete "Foreach döngüsü"`
 
----
-
-#### Code Analyzer (demo)
-
-`$ code_analyzer/code_analyzer.sh "/uygulamak/istediginiz/kodun/konumu"`
 
 ---
